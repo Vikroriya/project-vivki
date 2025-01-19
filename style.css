@@ -1,0 +1,46 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-color:#bee2ff ;
+    color: black;
+    padding: 20px;
+    font-size: 20px;
+}
+
+header p {
+    margin: 5px;
+}
+header a {
+    background-color:#bee2ff ;
+    text-decoration:none;
+    padding: 10px;
+    color: blue;
+}
+
+h1 {
+    text-align:center ;
+    border: solid 4px #87CEEB;
+    border-radius: 20px;
+    color:rgb(90, 90, 215);
+    }
+
+footer p {
+  background-color:#bee2ff ;
+  padding:10px;
+}
+
+nav{
+    margin:20px;
+    padding:20px;
+}
+
+nav a {
+   padding: 15px;
+   text-decoration: none;
+   font-size:20px;
+   color: azure;
+   background-color: #87CEEB;
+   border-radius:15px;
+   }
